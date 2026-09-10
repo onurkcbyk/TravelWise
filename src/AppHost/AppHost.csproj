@@ -4,6 +4,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>TravelWise.AppHost</RootNamespace>
     <AssemblyName>TravelWise.AppHost</AssemblyName>
+    <UserSecretsId>e78fa7c3-7eac-4d05-bc06-e27e3fee90f0</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
